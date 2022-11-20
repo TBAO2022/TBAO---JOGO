@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/114000712/202920111-de6f1492-98f3-4de3-a96a-f5b8355a9b56.png)
+
 Projeto:
 # TBAO - JOGO
 JOGO 2D - The Bizzare Adventures of Odoacro . 
@@ -7,7 +10,7 @@ O jogo será focado em streamers, youtubers e toda a comunidade gamer. . Sunigui
 
 Motivação: Trazer uma nova aventura com a nostalgia do 2D.
 
-Status:Em processo de diagramação de classes.
+Status:Em processo de codificação.
 
 Capturas de tela:Em breve...
 
