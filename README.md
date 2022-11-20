@@ -3,31 +3,27 @@
 
 Projeto:
 # TBAO - JOGO
-JOGO 2D - The Bizzare Adventures of Odoacro . 
+📋  JOGO 2D - The Bizzare Adventures of Odoacro . 
 
-Categoria: 2D, plataforma, aventura.  
+Categoria: 2D, plataforma, aventura. 
+
 O jogo será focado em streamers, youtubers e toda a comunidade gamer. . Suniguilda esposa de Odoacro foi capturada e o mesmo deve salva-la das mãos sujas de Teodorico, líder de um dos clãs mais temidos pelas regiões, os Godos. Localizado na cidade de Ifáno onde Teodorico se esconde, é uma região temida e não explorado pelo mundo, pois existe magia, monstros, armadilhas. E cuidado é pouco quando se trata de algo ainda desconhecido por muitos. E em sua jornada haverá muitas dificuldades, mas Odoacro não se importa com o que vier pela frente, com um coração de bárbaro faria qualquer coisa pela sua amada. . Em questão dos personagens trouxemos uma parte do passado da Itália, o heroi Odoacro, a princesa Suniguilda e o vilão Teodorico.
 
-Motivação: Trazer uma nova aventura com a nostalgia do 2D.
+⌨️Motivação: Trazer uma nova aventura com a nostalgia do 2D.
 
-Status:Em processo de codificação.
+📋 Pré-requisitos: Login no site para ter acesso ao jogo.
 
-Capturas de tela:Em breve...
+📦Instalação: Jogo online, sem precisar de instalação.
 
-Tecnologia/Framework Utilizados:Linguagem: C Ferramentas: Unity, Visual studio .
+⚙️Status: Em processo de codificação.
 
-Recursos:
+🛠️Tecnologia/Framework Utilizados:
+Linguagem: C <br>
+Ferramentas: Unity, Visual studio, Notion, Figma, Photoshop,Github
 
-Exemplo de código:
+✒️ Autores:
+Victor: Desenvolvimento do jogo<br>
+Bruna: Desenvolvimento do site<br>
+Mari: Documentação Geral
 
-Instalação:
-
-Referência da API:
-
-Testes:
-
-Contribuição:
-
-Créditos:
-
-Licença:
+🎁 Gratidão: A todos que nos ajudam, amigos , familiares e professores, da menor à maior contribuição, todas são igualmente importantes.
